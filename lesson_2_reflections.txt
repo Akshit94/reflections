@@ -16,9 +16,11 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
 
+	It offers us to check our project once more before finally comitting the changes
+	thus leading to a more efficient project.
 
 How can you use the staging area to make sure you have one commit per logical
-change?
+ change?
 
 
 
