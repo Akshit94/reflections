@@ -1,7 +1,8 @@
 ﻿What happens when you initialize a repository?
+
+	A .git hidden directory is created that contains all the basics for a repository.
  
 Why do you need to do it?
-
 
 
 How is the staging area different from the working directory and the repository?
