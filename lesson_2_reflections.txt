@@ -25,12 +25,18 @@ How can you use the staging area to make sure you have one commit per logical
 	If multiple file needs to be updated in a logical change then instead of commiting
 	each file differently we can first add them to staging area then commit them together.
 
-What are some situations when branches would be helpful in keeping your history
+What are some situations when branches would be helpful in keeping your history 
 organized?
+	when we want to make a different version of our project without relecting it on the
+	original.
+	when we need to create a experimental version of our project.
+	want to create a new feature of the project
+	when multiple people are working on a same project
 
 How would branches help?
 
-
+	it helps us by differentiating the work of multiple users working on the same project
+	it helps by keeping track of different commits in different branches.
 
 How do the diagrams help you visualize the branch structure?
 
