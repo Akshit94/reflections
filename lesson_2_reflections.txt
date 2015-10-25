@@ -8,7 +8,10 @@ Why do you need to do it?
 
 
 How is the staging area different from the working directory and the repository?
-
+	Staging area is a step where you can review the changes or correct them if any
+	error or bug appears before finally commiting it. In the working directory the files
+	of the previous commit or the initial starting file are stored whereas in the 
+	repository the final commited changes are stored.
 
 What value do you think it offers?
 
